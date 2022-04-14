@@ -2,7 +2,7 @@
 - 👀 I’m interested in front-end development
 - 🌱 I’m currently learning about Webhooks and migrating to Tailwind CSS 
 
-Looking for developer roles! 
+Looking for developer roles in the GTA
 
 <!---
 maxbarltrop/maxbarltrop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
